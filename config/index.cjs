@@ -61,9 +61,6 @@ const USER_CONFIG = {
       ],
       courseSchedule: [
         // 课表
-        courses: {
-          // 周课表
-          // 从星期一到星期日（星期六和星期日的课表数组可不填写）
             // 周一
             [
               '09:25-10:05 高一5班',
@@ -98,7 +95,6 @@ const USER_CONFIG = {
             [],
             // 周日
             []
-        }
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
