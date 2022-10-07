@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: 'eaca4b79cc2e1e63cddf443bb0a25e09',
 
-  PROVINCE: '甘肃',
-  CITY: '临夏',
+  PROVINCE: '临夏市',
+  CITY: '东乡族自治县',
   
   // 功能开关,打开：true，关闭：false
   SWITCH: {
