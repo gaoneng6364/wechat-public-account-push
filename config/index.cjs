@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: 'eaca4b79cc2e1e63cddf443bb0a25e09',
 
   PROVINCE: '甘肃',
-  CITY: '兰州',
+  CITY: '临夏',
   
   // 功能开关,打开：true，关闭：false
   SWITCH: {
