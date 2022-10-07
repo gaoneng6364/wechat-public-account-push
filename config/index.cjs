@@ -98,9 +98,8 @@ const USER_CONFIG = {
             [],
             // 周日
             []
-          }
-
-      ]
+        }
+      ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
