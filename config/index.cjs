@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx788f76905f70cd77',
+  APP_ID: 'wx75a3055c5debaf7a',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'eaca4b79cc2e1e63cddf443bb0a25e09',
+  APP_SECRET: 'af6859d9c5326f4aa76a6264c5ece700',
 
   PROVINCE: '临夏市',
   CITY: '东乡族自治县',
