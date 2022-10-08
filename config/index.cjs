@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oyFvL51N9dXCw1fi5xJfNfIGWglE',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'pU5GLlmuQjFllvjU1P78ZEtXPj3y7XaqjsrqG5YZ8ds',
+      useTemplateId: '6A43yqq0pvuX1zLi3n9s4_TfUMH60vCH3Soya2ly7gk',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
